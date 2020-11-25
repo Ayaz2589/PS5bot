@@ -1,12 +1,12 @@
 # PS5bot
 
-## ⚠️ this project is not maintained anymore
+# *FULL DISCLAIMER*
 
-Sorry yall, but I have other things to do 😿. Plus there are situations I've no clue how to solve such as traffic spikes and captchas, and situations that are basically impossible to bypass (e.g. loading queues for PlayStation Direct). For these reasons, I'm archiving this project. Hey, at least we don't need to worry about all this for Cyberpunk!
+THIS APPLICATION WILL ONLY ALLOW YOU TO POSSIBLY GET A **single** PLAYSTATION 5 (DISC VERSION ONLY)
+
+## Also: This is not intended to scalp massive quantities of PS5s. That shit aint cool.
 
 ps5bot is a dead simple auto-checkout bot to buy a PlayStation 5 from PlayStation Direct, Target, and Walmart (planned: Gamestop, BestBuy).
-
-![prestine image of naked man punching tank go boom](https://media.giphy.com/media/ECpTuaJw4kRq0/giphy.gif)
 
 ## Installation overview
 
@@ -80,9 +80,3 @@ Make sure to run this script and keep the terminal open around the time of the s
 - There's a chance WalMart checkout ask for captcha after entering address. If this is the case, bot will pause. As soon as you complete them, bot will resume.
 - You need a login for Target. And make sure no existing carts.
 
-PS5bot exists to:
-
-- practice web scraping and to
-- buy a **single** PS5 for myself  
-The second point is fair imo since it's pretty much an automated version of constantly clicking refresh to buy stuff.  
-Also: This is not intended to scalp massive quantities of PS5s. That shit aint cool.
